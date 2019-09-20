@@ -1,0 +1,9 @@
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\bin\Debug\netstandard2.0\Plugin.Controls.SegmentedControl.deps.json
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\bin\Debug\netstandard2.0\Plugin.Controls.SegmentedControl.dll
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\bin\Debug\netstandard2.0\Plugin.Controls.SegmentedControl.pdb
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\obj\Debug\netstandard2.0\SegmentedControl.csproj.CoreCompileInputs.cache
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\obj\Debug\netstandard2.0\SegmentedControl.AssemblyInfoInputs.cache
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\obj\Debug\netstandard2.0\SegmentedControl.AssemblyInfo.cs
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\obj\Debug\netstandard2.0\Plugin.Controls.SegmentedControl.dll
+C:\Users\stephen_jong\Documents\NetStd.Sprint70.StephenWipLocal\Mobile\Controls\SegmentedControl\SegmentedControl\obj\Debug\netstandard2.0\Plugin.Controls.SegmentedControl.pdb
